@@ -3,3 +3,9 @@
 SELECT 
 	*
 FROM countries;
+
+-- zkouska zmeny
+
+SELECT 
+	*
+FROM weather;
